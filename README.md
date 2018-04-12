@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>task0001</title>
+	<title></title>
 </head>
 <body>
 	<div><h1>A-LITTLE-COOKIE</h1>
