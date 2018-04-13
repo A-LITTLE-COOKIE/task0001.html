@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<title>task0001</title>
 	<style type="text/css">
-  h2{color="pink";
+  h2{color:"pink";
 background:#ccc;
 width:300px;}
 </style>
