@@ -8,10 +8,10 @@
 	<div><h1>A-LITTLE-COOKIE</h1>
 	<ul>
 	<li>
-	<a href="https://github.com/A-LITTLE-COOKIE" title="A-LITTLE-COOKIE的GitHub账号主页">A-LITTLE-COOKIE的GitHub账号主页</a>
+	<a href="https://github.com/A-LITTLE-COOKIE" title="A-LITTLE-COOKIE的GitHub账号主页" target="_blank">A-LITTLE-COOKIE的GitHub账号主页</a>
 	</li>
 	<li>
-	<a href="https://www.zhihu.com/" title="我的知乎主页">我的知乎主页</a>
+	<a href="https://www.zhihu.com/" title="我的知乎主页" target="_blank">我的知乎主页</a>
 	</li>
 	</ul></div>
 	<div>
